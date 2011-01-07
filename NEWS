@@ -1,0 +1,9 @@
+Version 0.2
+-----------
+
+* clean.zipcodes function now returns NAs for blank and whitespace-only inputs as well
+
+* Added clearer warning to data's documentation that no updates have been made since
+  2004's publication
+
+* Cleaned up several aspects of the documentation and added sample output to each example
