@@ -1,6 +1,18 @@
 This package is licensed under the Creative Commons Attribution-ShareAlike
-license <http://creativecommons.org/licenses/by-sa/2.0/> to match the underlying
-database. The original README follows:
+license <http://creativecommons.org/licenses/by-sa/2.0/> to match the 
+CivicSpace database upon which pre-1.0 versions were soley based.
+
+As of version 1.0, the database is being supplemented by that of
+Daniel Coven's web site at http://federalgovernmentzipcodes.us/. 
+Here's what he wrote about licensing in a December 29, 2011 email:
+
+"Licensing: None, mostly it’s just government data, put together 
+somewhat nicely. If you like the result, link to site, help with 
+data validation, or buy me a beer, or not. Glad you like it."
+
+- - - - - - -
+
+CivicSpace's original README follows:
 
 CivicSpace US ZIP Code Database
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

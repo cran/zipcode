@@ -1,0 +1,12 @@
+1d30e254b7fce55db7550cd057609ce1 *DESCRIPTION
+ec642903a9a3e5a6c2031d711a24ea99 *LICENSE
+57ef8b4120f216be1ea468ba2b2ac930 *NAMESPACE
+2d26c738496e1e1a852c8c52d91a0f52 *NEWS
+714affa344b1e0ab519f0c4959816021 *R/code.R
+2f62bebdeb3717ae5b6e6505ccdba3c6 *data/datalist
+a01f45a1e5b15c9bdc8aa45bdaff032b *data/zipcode.civicspace.rda
+a40c8d34146a755042aa1bcf8eec3874 *data/zipcode.rda
+986b2f72298a09568561f014a74fbef9 *man/clean.zipcodes.Rd
+f380ae4511b7ed4dd0b9a0e5ef60b7c5 *man/zipcode-package.Rd
+a0a6c056f97c00ace4a7e84d3d36dbfc *man/zipcode.civicspace.rd
+dce60a8efde22d5455ee0a9b86d4a36f *man/zipcode.rd
